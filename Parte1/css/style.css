@@ -1,0 +1,33 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px double;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: Courier;
+}
+
+span {
+    font-weight: bold;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+footer {
+    margin-top: 50px;
+}
